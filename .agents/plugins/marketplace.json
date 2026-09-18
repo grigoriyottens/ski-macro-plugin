@@ -1,0 +1,21 @@
+{
+  "name": "wai-ski",
+  "interface": {
+    "displayName": "WAI · СКИ"
+  },
+  "plugins": [
+    {
+      "name": "ski-macro-assistant",
+      "pluginId": "Plugin_735dbada42fc81918f61caa8229dd247",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ski-macro-assistant"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

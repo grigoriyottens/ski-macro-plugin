@@ -1,0 +1,6 @@
+interface:
+  display_name: "MACRO — рабочий помощник"
+  short_description: "MACRO: договоры, файлы, изменения и аналитика"
+  default_prompt: "Используй $macro-work-assistant: помоги найти и проверить рабочий договор в MACRO."
+policy:
+  allow_implicit_invocation: true
