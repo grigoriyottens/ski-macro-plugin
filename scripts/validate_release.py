@@ -62,6 +62,7 @@ def validate(root=ROOT):
         "skills/macro-work-assistant/references/macrodata-routing.md",
         "skills/macro-work-assistant/references/erp-writes.md",
         "skills/macro-work-assistant/references/contract-selection.md",
+        "skills/macro-work-assistant/references/connection-recovery.md",
     }
     actual = set()
     for file in plugin.rglob("*"):
